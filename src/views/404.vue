@@ -122,7 +122,7 @@ export default class extends Vue {
         animation-timing-function: linear;
         animation-fill-mode: forwards;
         animation-delay: 1s;
-      }
+      } 
 
       @keyframes cloudLeft {
         0% {
