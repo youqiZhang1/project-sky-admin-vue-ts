@@ -126,7 +126,7 @@ export default class extends Vue {
 
       @keyframes cloudLeft {
         0% {
-          top: 17px;
+          top: 18px;
           left: 220px;
           opacity: 0;
         }
